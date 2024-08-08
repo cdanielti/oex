@@ -1,6 +1,6 @@
 /*
 RECORD(registros)
-
+ejemplo de uso de record
 */
 declare 
 
