@@ -1,6 +1,7 @@
 /*
 RECORD(registros)
 ejemplo de uso de record
+cambio desde github
 */
 declare 
 
