@@ -1,5 +1,6 @@
 CREATE OR REPLACE PACKAGE PCK_BITACORAS IS
 /*
+08082024
 creacion de variables de instancia en el ambito del paquete
 */
 SUBTYPE is_procedure_name is varchar2(30);
