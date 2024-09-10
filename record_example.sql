@@ -1,7 +1,7 @@
 /*
 RECORD(registros)
 ejemplo de uso de record
-cambio desde github
+cambio desde github nuevo
 */
 declare 
 
