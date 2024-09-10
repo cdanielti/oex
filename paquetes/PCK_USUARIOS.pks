@@ -1,5 +1,7 @@
 create or replace NONEDITIONABLE PACKAGE pck_usuarios IS
-
+/*
+COMENTARIO DESDE LA PAGINA WEB DEL REPOSITORIO DE GITHUB
+*/
     -- Procedimiento para insertar un usuario
     PROCEDURE insertar_usuario(
         p_nombre_usuario IN VARCHAR2,
@@ -20,7 +22,7 @@ create or replace NONEDITIONABLE PACKAGE pck_usuarios IS
         p_id_usuario IN NUMBER
     );
 
-    -- Función para obtener información de un usuario
+    -- FunciÃ³n para obtener informaciÃ³n de un usuario
     FUNCTION obtener_usuario(
         p_id_usuario IN NUMBER
     ) RETURN SYS_REFCURSOR;
